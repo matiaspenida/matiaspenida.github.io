@@ -1,0 +1,151 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(255, 251, 14);
+}
+
+header {
+  background-color: chartreuse;
+  width: 100%;
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.menu {
+  width: 900px;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+.navegacion {
+  float: right;
+  text-align: left;
+}
+
+button {
+  width: 30px;
+  height: 30px;
+}
+
+.navegacion ul li {
+  list-style: none;
+  margin-left: 50px;
+  float: left;
+}
+
+.navegacion ul li a {
+  text-decoration: none;
+  color: #444;
+  font-weight: bold;
+}
+
+.navegacion ul li a:hover {
+  color: darksalmon;
+}
+
+.ancla1 {
+  text-align: center;
+}
+
+.imagen {
+  max-width: 1000px;
+  margin: auto;
+  text-align: center;
+  padding: 0 10px;
+}
+
+.iconoperfil {
+  background-color: coral;
+  text-align: center;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.nombredescripcion {
+  text-align: center;
+}
+
+#texto1 {
+  display: inline;
+  background-color: honeydew;
+  font-size: 20px;
+  color: rgb(0, 17, 255);
+}
+
+.habilidades {
+  background-color: coral;
+  text-align: center;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.ancla2 {
+  text-align: center;
+}
+
+.texto2 {
+  font-size: 18px;
+}
+
+.idiomas {
+  background-color: coral;
+  text-align: center;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.ancla3 {
+  text-align: center;
+}
+
+.texto3 {
+  font-size: 18px;
+}
+
+.educacion {
+  background-color: coral;
+  text-align: center;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.ancla4 {
+  text-align: center;
+}
+
+.texto4 {
+  font-size: 18px;
+}
+
+.experiencialaboral {
+  background-color: coral;
+  text-align: center;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.ancla5 {
+  text-align: center;
+}
+
+.texto5 {
+  font-size: 18px;
+}
+
+.contacto {
+  background-color: coral;
+  text-align: center;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.ancla6 {
+  text-align: center;
+}
+
+.texto6 {
+  font-size: 18px;
+}
+
+.texto7 {
+  font-size: 18px;
+}
